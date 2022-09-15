@@ -30,6 +30,3 @@ Live Demo can be viewed at https://promanager.netlify.app/
 * 5 - pip install -r requirements.txt
 * 6 - python manage.py runserver
 
-# Setup for react
-* 1 - cd frontend
-* 2 - npm install
