@@ -1,5 +1,5 @@
 # Project Manager Website With Django + React
-### promanager is simple way to collaborate with your team, Keep a track of all your projects in most simple way.
+promanager is simple way to collaborate with your team, Keep a track of all your projects in most simple way.
 
 Live Demo can be viewed at https://promanager.netlify.app/
 
