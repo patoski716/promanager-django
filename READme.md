@@ -8,7 +8,7 @@ Live Demo can be viewed at https://promanager.netlify.app/
 <div align="center">
 
 <img src="showcase.PNG" width="800px"/><br/>
-<img src="dashboard.PNG" width="800px"/>
+<img src="Dashboard.PNG" width="800px"/>
 
 </div>
 
